@@ -1,1 +1,6 @@
 Arduino project to create a iot garage door controller
+
+The code requires the following libraries 
+* ESP8266WiFi
+* PubSubClient
+* DHT
